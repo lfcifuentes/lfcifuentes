@@ -10,6 +10,8 @@ Some technologies I enjoy working with include PHP, JS, VueJs, ReactJs, Golang.
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfercho&layout=compact&show_icons=true&theme=vue-dark" />
 </p>
+<!--
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=luisfercho&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=luisfercho" />
 </p>
+-->
