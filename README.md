@@ -5,9 +5,9 @@ Some technologies I enjoy working with include PHP, JS, VueJs, ReactJs, Golang.
 
 ### :chart_with_upwards_trend: GitHub stats : 
 <p align="center">
-  <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=luisfercho&show_icons=true&theme=vue-dark&count_private=true" alt="github stats"/>
+  <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=lfcifuentes&show_icons=true&theme=vue-dark&count_private=true" alt="github stats"/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfercho&layout=compact&show_icons=true&theme=vue-dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfcifuentes&layout=compact&show_icons=true&theme=vue-dark" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@ Some technologies I enjoy working with include PHP, JS, VueJs, ReactJs, Golang.
       <img src="https://img.shields.io/github/followers/luisfercho?color=%234CC61E&label=GitHub%20Followers%20%3A"/>
     </a>
     -->
-    <a href="https://github.com/luisfercho?tab=repositories">
+    <a href="https://github.com/lfcifuentes?tab=repositories">
       <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/>
     </a>
     <a href="https://github.com/Naereen/badges">
