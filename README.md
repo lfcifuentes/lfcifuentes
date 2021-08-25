@@ -10,11 +10,11 @@ Some technologies I enjoy working with include PHP, JS, VueJs, ReactJs, Golang.
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfcifuentes&layout=compact&show_icons=true&theme=vue-dark" />
   </a>
 </p>
-
+<!--
 ### :chart_with_upwards_trend: Wakatime stats : 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=luisfercho&layuout=compact&theme=vue-dark" />
-</p>
+</p>-->
 <p>
     <img src="https://views.whatilearened.today/views/github/luisfercho/views.svg"/>
     <!---
