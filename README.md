@@ -1,34 +1,67 @@
-# Hi, I'm Luis  👋 :man_technologist:	
-I'm a Web Developer, PHP, JS, Golang Lover.
-<br />
-Some technologies I enjoy working with include PHP, JS, VueJs, ReactJs, Golang.
-<!--
-### :chart_with_upwards_trend: GitHub stats : 
-<p align="center">
-  <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=lfcifuentes&show_icons=true&theme=vue-dark&count_private=true" alt="github stats"/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfcifuentes&layout=compact&show_icons=true&theme=vue-dark" />
+<div align="center">
+  <img height="200" src="https://avatars.githubusercontent.com/u/23512192?v=4"  />
+</div>
+
+###
+
+<h2 align="left">👋 ¡Hola! Soy Luis Fernando Cifuentes</h2>
+<p align="left">Desarrollador FullStack con +8 años de experiencia construyendo soluciones escalables con Go, Laravel y React.</p>
+
+###
+
+<h3>🛠️ Tecnologías</h3>
+
+<strong>Frontend</strong><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+
+<strong>Backend</strong><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" />
+
+<strong>DevOps</strong><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+
+<strong>Bases de datos</strong><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lfcifuentes/lfcifuentes/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lfcifuentes/lfcifuentes/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lfcifuentes/lfcifuentes/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="left">
+  <a href="https://linkedin.com/in/luis-fernando-cifuentes-3a6a90119" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" />
   </a>
-</p>-->
-<!--
-### :chart_with_upwards_trend: Wakatime stats : 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lfcifuentes&layuout=compact&theme=vue-dark" />
-</p>-->
-<p>
-    <img src="https://views.whatilearened.today/views/github/lfcifuentes/views.svg"/>
-    <!---
-    <a href="https://github.com/luisfercho?tab=followers">
-      <img src="https://img.shields.io/github/followers/lfcifuentes?color=%234CC61E&label=GitHub%20Followers%20%3A"/>
-    </a>
-    -->
-    <a href="https://github.com/lfcifuentes?tab=repositories">
-      <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/>
-    </a>
-    <a href="https://github.com/Naereen/badges">
-      <img src="https://img.shields.io/badge/badges-awesome-green.svg"/>
-    </a>
-    <a href="mailto:lfcifuentes28@gmail.com?subject=[Github] Ask me anything&body=Hello Luis, I am sending this after seeing your Github Profile">
-      <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/>
-    </a>
-  </p>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="52" height="40" alt="gitlab logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lfcifuentes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lfcifuentes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=lfcifuentes&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+### 📬 Contáctame
+
+- 💼 [LinkedIn](https://linkedin.com/in/luis-fernando-cifuentes-3a6a90119)
+- ✉️ lfcifuentes28@gmail.com
