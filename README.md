@@ -5,6 +5,7 @@
 ###
 
 <h2 align="left">👋 ¡Hola! Soy Luis Fernando Cifuentes</h2>
+<img src="./lcifuentes-dev-2.svg" height="80" />
 <p align="left">Desarrollador FullStack con +8 años de experiencia construyendo soluciones escalables con Go, Laravel y React.</p>
 
 ###
