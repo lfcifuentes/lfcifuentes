@@ -1,3 +1,5 @@
+![banner](./profile_github.png)
+
 # Hi, I'm Luis Fernando Cifuentes 👋
 
 **Senior Backend Engineer** · Go · Distributed Systems · Event-Driven Architecture
